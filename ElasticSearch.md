@@ -17,7 +17,7 @@ Research topics
 
 Issues
 --
- - Terms aggregation pagination is NOT supported. [Per this forum article](http://elasticsearch-users.115913.n3.nabble.com/ES-aggregation-and-pagination-td4052774.html) and [this Elasticsearch Github issue #4915](https://github.com/elasticsearch/elasticsearch/issues/4915)
+ - Terms aggregation pagination is NOT supported. [Per this forum article](http://elasticsearch-users.115913.n3.nabble.com/ES-aggregation-and-pagination-td4052774.html) and [this Elasticsearch Github issue #4915](https://github.com/elasticsearch/elasticsearch/issues/4915). Google Groups [thread about this and its workaround](https://groups.google.com/forum/#!topic/elasticsearch/2Hefap839ec).
 
 
 Sample Patterns
